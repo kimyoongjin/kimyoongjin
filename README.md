@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Korean&weight=200&pause=1000&color=8F4CF7&center=&vCenter=&random=&width=435&lines=%EC%98%A4%EB%8A%98+%EB%81%9D%EB%82%98%EA%B3%A0+%EC%86%8C%EB%B0%94+%EB%A8%B9%EC%9C%BC%EB%A1%9C+%EA%B0%91%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
-##### 배워야합니다.
+#####
 
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
