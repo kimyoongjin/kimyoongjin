@@ -19,7 +19,7 @@
 
 * [MINUTE - 사용자 라이프스타일 영상 큐레이션 서비스](https://github.com/MINUTE-FinalProject/minute_front)
     * **설명:** 사용자의 선호도와 관심사에 맞는 영상을 추천하고 공유하는 웹 서비스입니다.
-    * (기획, 와이어프레임, 디자인 및 프론트 구현, API 연동을 통한 영상 데이터 처리 참여)
+    * 기획, 와이어프레임, 디자인 및 프론트 구현, API 연동을 통한 영상 데이터 처리 참여
     * **사용 기술:** `Java`, `Spring Boot`, `MySQL`, `React`, `JavaScript`, `Node.js`
 
 ---
