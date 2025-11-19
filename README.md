@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 프로젝트 (GitHub Repositories)
+## 🎯 프로젝트
 
 * [MINUTE - 사용자 라이프스타일 영상 큐레이션 서비스](https://github.com/MINUTE-FinalProject/minute_front)
     * **설명:** 사용자의 선호도와 관심사에 맞는 영상을 추천하고 공유하는 웹 서비스입니다. (기획, 와이어프레임, UI 디자인 및 프론트 구현 참여)
@@ -32,6 +32,6 @@
 
 ---
 
-## 디자인 포트폴리오 (Design Works)
+## 포트폴리오
 
 * **[디자인 🔗](https://www.figma.com/design/GZsxr1zMFT1Y8qy6ErJUNR/portfolio?node-id=0-1&p=f&t=8MqHB9sXqPkAFPyM-0)**
