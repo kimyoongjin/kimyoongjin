@@ -9,7 +9,7 @@
 <br>
 
 ![ps](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=black)
-![ai](https://img률s.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=black)
+![ai](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=black)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
@@ -18,15 +18,20 @@
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![html5](https://img.logos.com/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
 ---
-## 프로젝트
+
+## 🎯 프로젝트 (GitHub Repositories)
 
 * [MINUTE - 사용자 라이프스타일 영상 큐레이션 서비스](https://github.com/MINUTE-FinalProject/minute_front)
-    * **설명:** 사용자의 선호도와 관심사에 맞는 영상을 추천하고 공유하는 웹 서비스입니다. **(기획, 와이어프레임, UI 디자인 및 프론트 구현 참여)**
+    * **설명:** 사용자의 선호도와 관심사에 맞는 영상을 추천하고 공유하는 웹 서비스입니다. (기획, 와이어프레임, UI 디자인 및 프론트 구현 참여)
     * **사용 기술:** `Java`, `Spring Boot`, `MySQL`, `React`, `JavaScript`, `Node.js`
-    * **[디자인 포트폴리오 🔗]** : (여기에 Behance, Notion 등 디자인 시안 링크를 넣어주세요.)
+
+---
+
+## 디자인 포트폴리오 (Design Works)
+
+* **[디자인 🔗](https://www.figma.com/design/GZsxr1zMFT1Y8qy6ErJUNR/portfolio?node-id=0-1&p=f&t=8MqHB9sXqPkAFPyM-0)**
